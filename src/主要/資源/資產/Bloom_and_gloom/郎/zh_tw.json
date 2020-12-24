@@ -1,0 +1,21 @@
+{
+  "item.bloom_and_gloom.rafflesia_seed": "霸王花種子",
+  "item.bloom_and_gloom.kabloom_seed": "刺燦瓜種子",
+  "item.bloom_and_gloom.kabloom_fruit": "刺燦瓜果實",
+
+  "bloom_and_gloom.subtitle.block.rafflesiaSpew": "霸王花噴發",
+  "bloom_and_gloom.subtitle.block.rafflesiaPop": "霸王花發臭",
+  "bloom_and_gloom.subtitle.block.rafflesiaSlurp": "霸王花膨脹",
+  "bloom_and_gloom.subtitle.block.kabloomBushRustle": "刺燦瓜沙沙作響",
+  "bloom_and_gloom.subtitle.block.kabloomBushShear": "剪刀剪取",
+
+  "bloom_and_gloom.subtitle.entity.kabloomFruitExplosion": "刺燦瓜",
+
+  "death.attack.bloom_and_gloom.kabloom": "%1$s went kabloom",
+
+  "bloom_and_gloom.advancements.husbandry.suspicious.title": "很可疑...",
+  "bloom_and_gloom.advancements.husbandry.bloom_defused.title": "刺燦瓜已被清除",
+
+  "bloom_and_gloom.advancements.husbandry.suspicious.description": "對著霸王花使用可疑的燉湯",
+  "bloom_and_gloom.advancements.husbandry.bloom_defused.description": "對著刺燦瓜使用剪刀來獲得其果實"
+}
